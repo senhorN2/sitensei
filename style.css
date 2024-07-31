@@ -5,7 +5,23 @@
 
 .cabecalho {
     background-color: rgb(4, 247, 113)
-    color: black;
+    color: white;
     display: flex;
     justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+
+.cabecalho-imagem{
+width:100%;
+}
+
+.cabecalho-lista-item{
+    display:inline-block; vai se fode nathan
+    margin: 0 16px;
+    font-size: 20px;
+}
+
+.escola-imagem{
+    width:30%;
 }
